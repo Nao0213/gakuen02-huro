@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&family=Yuji+Syuku&display=swap');
+
+
+body{
+    background-color: white;
+    font-family: "Yuji Syuku", serif;
+  font-weight: 6000;
+  font-style: normal;
+  font-size: 1;
+}
+h1{
+    color:black
+}
+
+
+
+.button{
+    display: inline-block;
+    margin: 0 100px;
+    color: white;
+    background-color:black;
+    font-size: 3rem;
+}
+
+
+
+
+.class{
+  background-color: black;
+  font-size:large;
+}
+
+
+div{
+  color: white;
+  background-color:black;
+
+}
+
+
+
+
+
+  
+bdo{
+  background-color: grey;
+}
+
+
+
+.cp_cssslider {
+  width: 1820px;
+  height: 400px;
+  overflow: hidden;
+  margin: 2em auto;
+  border: 10px solid #ffffff;
+  box-shadow:0px 0px 5px 0px rgba(0,0,0,0.5);
+}
+.cp_slide_item {
+  width: 1000x;
+  height: 800px;
+  float: left;
+  position: relative;
+}
+.cp_slidewrapper {
+  width: 500%;/* slideの枚数×100% */
+  position: relative;
+  left: 0;
+  animation: slider 20s infinite ease;/* スピード */
+}
+@-webkit-keyframes slider {
+  /* 100%を枚数で割った%に割り振る */
+  0% {
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+  }
+  20% {
+  -webkit-transform: translateX(-300px);
+  transform: translateX(-300px);
+  }
+  40% {
+  -webkit-transform: translateX(-600px);
+  transform: translateX(-600px);
+  }
+  60% {
+  -webkit-transform: translateX(-900px);
+  transform: translateX(-900px);
+  }
+  80% {
+  -webkit-transform: translateX(-1200px);
+  transform: translateX(-1200px);
+  }
+  100% {
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+  }
+}
+@keyframes slider {
+  /* 100%を枚数で割った%に割り振る */
+  0% {
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+  }
+  20% {
+  -webkit-transform: translateX(-300px);
+  transform: translateX(-300px);
+  }
+  40% {
+  -webkit-transform: translateX(-600px);
+  transform: translateX(-600px);
+  }
+  60% {
+  -webkit-transform: translateX(-900px);
+  transform: translateX(-900px);
+  }
+  80% {
+  -webkit-transform: translateX(-1200px);
+  transform: translateX(-1200px);
+  }
+  100% {
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+  }
+}
+
+
+.box {
+  color: white;
+  font-size: 40px;
+}
+
+p {
+  text-align: right;
+}
