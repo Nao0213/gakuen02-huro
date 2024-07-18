@@ -1,0 +1,57 @@
+#rounded-box {
+    width: 1500px;
+    height: 50px;
+    background-image:url(https://tse3.mm.bing.net/th/id/OIP.AAjvcwCrUq7zizPwsePq9QHaE7?w=292&h=195&c=7&r=0&o=5&dpr=1.7&pid=1.7);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position:absolute;
+    left: 0px;
+    top: 15px;
+  }
+ 
+.noma{
+    font-family: "Shippori Mincho B1", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 40px;
+}
+ 
+.ryoukin{
+    position:absolute;
+    left: 100px;
+    top: 75px;  
+}
+ 
+.eigyouannai{
+    position:absolute;
+    left: 100px;
+    top: 1100px;  
+}
+ 
+.nyukantyui{
+    position:absolute;
+    left: 700px;
+    top: 1100px;  
+}
+ 
+.box2 {
+    width: 1300px;
+    height: 50px;
+    background-image:url(https://tse3.mm.bing.net/th/id/OIP.AAjvcwCrUq7zizPwsePq9QHaE7?w=292&h=195&c=7&r=0&o=5&dpr=1.7&pid=1.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    left: 0px;
+    top: 1000px;
+}
+ 
+.abc{
+    font-family: "Shippori Mincho B1", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 40px;
+}

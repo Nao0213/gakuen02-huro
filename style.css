@@ -35,6 +35,7 @@ h1{
 div{
   color: white;
   background-color:black;
+  font-size: 50px;
 
 }
 
@@ -45,6 +46,7 @@ div{
   
 bdo{
   background-color: grey;
+  font-size: 75px;
 }
 
 

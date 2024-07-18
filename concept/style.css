@@ -1,0 +1,28 @@
+div{
+    color: white;
+    background-image:url(https://tse3.mm.bing.net/th/id/OIP.AAjvcwCrUq7zizPwsePq9QHaE7?w=292&h=195&c=7&r=0&o=5&dpr=1.7&pid=1.7) ;
+}
+
+
+
+
+
+body{
+    background-color: white;
+    font-family: "Yuji Syuku", serif;
+  font-weight: 6000;
+  font-style: normal;
+  font-size: 1;
+}
+
+p {
+    position:absolute ;
+    right:8px ;
+    top: 80px;
+}
+
+d{
+    position:absolute ;
+    right:8px ;
+    top: 750px;
+ }

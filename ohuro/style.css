@@ -1,0 +1,126 @@
+ 
+h1{
+    color: rgb(255, 255, 255);
+    background-image:url(https://img.freepik.com/premium-photo/black-marble-texture-abstract-background_158502-225.jpg);
+    background-size: 60px;
+    font-size: 50px;
+  }
+  body{
+      font-family: "Yuji Syuka",serif;
+  }
+   
+  .box{
+    width: 200px;
+      height: 75px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position:absolute;
+      left: 10px;
+      top: 540px;
+  }
+   
+  .box2{
+    width: 600px;
+      height: 75px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position:absolute;
+      left: 20px;
+      top: 580px;
+  }
+  .box3{
+    width: 600px;
+      height: 75px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position:absolute;
+      left: 20px;
+      top: 1090px;
+   
+  }
+  .box4{
+    width: 200px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    left: 10px;
+    top: 1040px;
+  }
+  .box5{
+    width: 200px;
+      height: 75px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position:absolute;
+      left: 1px;
+      top: 1550px;
+  }
+  .box6{
+    width: 800px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    left: 20px;
+    top: 1600px;
+  }
+  .box7{
+    width: 200px;
+      height: 75px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position:absolute;
+      left: 10px;
+      top: 2050px;
+  }
+  .box8{
+    width: 600px;
+      height: 75px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position:absolute;
+      left: 20px;
+      top: 2110px;
+  }
+   
+   
+   
+   
+  p{
+  position:absolute;
+  right: 1085px;
+  top: 630px;
+  }
+  o{
+  position:absolute;
+  right: 1085px;
+  top: 1160px;
+  }
+  i{
+  position:absolute;
+  right: 1085px;
+  top: 1670px;
+  }
+  u{
+    position:absolute;
+  right: 450px;
+  top: 150px;
+  }
+  y{
+    position:absolute;
+    right: 450px;
+    top: 1200px;
+  }
+   
+  .simizu{
+      color: rgb(9, 9, 9);
+  }
