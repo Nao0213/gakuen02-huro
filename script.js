@@ -5,7 +5,7 @@ const concept = document.getElementById("concept");
 concept.addEventListener("click", jumpPage);
  
 function jumpPage() {  
-    location.replace("https://nao0213.github.io/gakuen02-huro//concept/index.html");
+    location.replace("https://nao0213.github.io/gakuen02-huro/concept/index.html");
 }
 const bath = document.getElementById("bath");
  
